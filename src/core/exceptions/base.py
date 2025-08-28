@@ -1,0 +1,3 @@
+class KaoriBotException(Exception):
+
+    pass
